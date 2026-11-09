@@ -40,6 +40,23 @@ I care about **how well models really work and for whom**. My focus is evaluatin
 - **M.Sc. Medical Informatics**, Heilbronn University & Heidelberg University (2023 – 02/2027): Data Science & Software Engineering
 - **B.Sc. Applied Computer Science**, Heilbronn University (2023), grade 1.7
 
+#### 🤖 How I work with AI
+
+I use AI assistants a lot, and I want to be open about it. **Claude** supports my everyday workflows and makes them faster. It also helped me clean up my repositories and set up this profile: auditing old code for sensitive data, writing READMEs, and restructuring projects. I also work with **Claude and ChatGPT**, using different models in different settings, to explore what is now called *vibe coding*. I use them for my Master's thesis as well.
+
+For me, AI is a **support, not a replacement**. The current models, Claude Opus for example, can write very capable code on their own. But I put a strong focus on learning the **fundamentals of software engineering and data science** myself. As a teaching assistant, I worked with many students during exactly the time when AI tools became mainstream. I saw how easily skills and learning paths get mismanaged when the tool does the thinking.
+
+Not using AI for software engineering or data science would be a mistake. But the point is not *whether* you use it; it is **how you apply it to your own needs**. Even when vibe coding, I think it is essential to:
+
+- **keep track of what you learn** and **which decisions were made, and why**
+- have the **basics firmly in your own head**, so that *you* set the direction the AI takes in a project, not the other way around
+
+#### 🎤 Upcoming talk
+
+**My Claude workflow: practical lessons for future software engineers, data scientists and students.** It covers how to use AI in projects, Bachelor's and Master's theses, and research without losing the learning along the way.
+
+*Slides and recording coming soon.*
+
 #### 🤝 Beyond code
 
 Former head of the IT student council and student representative in the university senate. Founded a Capture-the-Flag competition with industry sponsors and the HHN LAN Party. German (native) · English (fluent).
