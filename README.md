@@ -1,6 +1,6 @@
 ### Hi, I'm Tom 👋
 
-I'm a Master's student in **Medical Informatics** at Heilbronn University and Heidelberg University, graduating in 02/2027. I'm looking for **Data Science / ML Engineering** roles from spring 2027.
+I'm a Master's student in **Medical Informatics** at Heilbronn University and Heidelberg University, working at the intersection of data science and software engineering.
 
 I care about **how well models really work and for whom**. My focus is evaluating ML models beyond a single accuracy number: disaggregated, cohort-level performance analysis and embedding distributions. I also build the Python tooling, CI/CD and monitoring that take data science from notebook to production. That comes from 6+ years as a working student and intern at **Robert Bosch GmbH** and **Vector Informatik GmbH**.
 
@@ -15,6 +15,7 @@ I care about **how well models really work and for whom**. My focus is evaluatin
 | [**vqa_eval_framework**](https://github.com/tomkrs/vqa_eval_framework) | Master's research project: evaluation framework for vision-language models on radiology VQA (VQA-RAD, SLAKE), with bootstrap uncertainty and open/closed-question breakdown | PyTorch, Hugging Face |
 | [**embedded-people-counting**](https://github.com/tomkrs/embedded-people-counting) | Bachelor's thesis: privacy-preserving people counting on a Raspberry Pi with EfficientDet-Lite0 + SORT; HOTA evaluation, frame-rate reduction study, 27-scene field study | TensorFlow Lite, OpenCV |
 | [**hcv-blood-donor-analysis**](https://github.com/tomkrs/hcv-blood-donor-analysis) | Anomaly detection, imputation benchmark, clustering and interpretable classification on hepatitis C lab values | scikit-learn, pandas |
+| [**ai-research-assistant**](https://github.com/tomkrs/ai-research-assistant) | LLM-assisted literature search and screening: generated queries across PubMed, Semantic Scholar and arXiv, deduplication, and inclusion/exclusion screening with a local LLM | Python, Ollama |
 | [**edge-detection-prototype**](https://github.com/tomkrs/edge-detection-prototype) | IDS Hackathon 2025: counting stacked products from a single camera image with classical CV and signal processing | OpenCV, SciPy |
 
 #### 💼 Experience
@@ -43,4 +44,4 @@ I care about **how well models really work and for whom**. My focus is evaluatin
 
 Former head of the IT student council and student representative in the university senate. Founded a Capture-the-Flag competition with industry sponsors and the HHN LAN Party. German (native) · English (fluent).
 
-📫 **tomkraus.it@gmail.com**
+📫 **tomkraus.it@gmail.com** · [LinkedIn](https://www.linkedin.com/in/tom-kraus-930432169/)
