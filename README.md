@@ -18,6 +18,8 @@ I care about **how well models really work and for whom**. My focus is evaluatin
 | [**ai-research-assistant**](https://github.com/tomkrs/ai-research-assistant) | LLM-assisted literature search and screening: generated queries across PubMed, Semantic Scholar and arXiv, deduplication, and inclusion/exclusion screening with a local LLM | Python, Ollama |
 | [**edge-detection-prototype**](https://github.com/tomkrs/edge-detection-prototype) | IDS Hackathon 2025: counting stacked products from a single camera image with classical CV and signal processing | OpenCV, SciPy |
 
+> **Why there's not more here:** my professional work naturally lives in internal company repositories. Most of my student projects are on Heilbronn University's own GitLab instance. This profile only shows the projects I copied over or started here myself.
+
 #### 💼 Experience
 
 - **Vector Informatik GmbH** (2024 – today)
